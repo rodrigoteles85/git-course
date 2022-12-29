@@ -9,3 +9,5 @@
 
   Se gostar do curso, ajude o professor com qualquer doação.
   Isso é importante para a manutenção do canal
+
+  Development by rodrigoteles85
